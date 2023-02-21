@@ -1,0 +1,14 @@
+.jumbotron {
+    color: black;
+    background-color:rgb(133, 56, 56);
+    border-color: saddlebrown;
+    border: 60px;
+}
+
+.col my-text {
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'Gentium Plus', serif;
+}
